@@ -2,9 +2,13 @@
 
 -- LU_Point_Type
 Point_Type_Id		PK
+Point_Type_Code
+Description
 
 -- LU_Country
 Country_Id			PK
+Country_Code
+Country_Name
 
 -- LU_Vehicle_Type
 Vehicle_Type_Id		PK
